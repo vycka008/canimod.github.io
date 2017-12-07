@@ -26,6 +26,7 @@ This is a collaborative open-source site documenting the anarchy.
         <li><a href="http://stardewvalleywiki.com">Game wiki</a></li>
         <li><a href="http://community.playstarbound.com/forums/mods.215">Modding forums</a></li>
         <li><a href="https://discord.gg/kH55QXP">Chat on Discord</a></li>
+        <li><a href="https://stardewvalleyinfo.com/">Stardew valley info</a></li>
     </ul>
 </div>
 <br clear="all" />
